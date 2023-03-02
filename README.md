@@ -1,1 +1,3 @@
-# kodluyoruz_html_bolumsonu2
+# HTML Bölüm Sonu Çalışması 2
+
+app.patika.dev/sanberk
